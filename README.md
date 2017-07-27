@@ -3,7 +3,7 @@
 --------------------
 ### JavaScript高级程序设计    reading
 ### JavaScript设计模式      reading
-### Node.js实战开发详解          will
+### Node.js实战开发详解      will
 ### Node.js权威指南                           will
 ### JS权威指南 					will
 ### CSS权威指南					will
