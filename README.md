@@ -1,7 +1,7 @@
 # reading can strongthen my power
 未来半年的读书计划
 --------------------
-### JavaScript高级程序设计    reading
+### JavaScript高级程序设计    reading    finished
 ### JavaScript设计模式      reading
 ### Node.js实战开发详解  will
 ### Node.js权威指南                           will
